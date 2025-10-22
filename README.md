@@ -10,3 +10,5 @@
 ### 📬 Connect with Me
 I’m open to networking, collaborations, and professional opportunities.  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sean-khokhar)
+
+### An insight into my work is provided here, and professional reports come with them.
